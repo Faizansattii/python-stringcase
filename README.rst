@@ -11,7 +11,7 @@ Usage
 .. code:: python
 
     import stringcase
-    stringcase.camelcase('foo_bar_baz') # => "fooBarBaz"
+    stringcase.camelcase('foo_bar_baz') # => "fooBarBazs"
     stringcase.camelcase('FooBarBaz') # => "fooBarBaz"
     stringcase.capitalcase('foo_bar_baz') # => "Foo_bar_baz"
     stringcase.capitalcase('FooBarBaz') # => "FooBarBaz"

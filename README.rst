@@ -1,7 +1,7 @@
 stringcase
 ==========
 
-Convert string cases between camel case, pascal case, snake case etc...
+Convert string cases between camel case, pascal case, snake case etc..
 
 |build_status_badge| |coverage_badge| |pypi_version_badge|
 

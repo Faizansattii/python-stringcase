@@ -1,4 +1,4 @@
-"""Unit test for stringcasef
+"""Unit test for stringcase
 """
 from unittest import TestCase
 from os import path
